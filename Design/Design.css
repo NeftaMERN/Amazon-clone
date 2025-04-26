@@ -209,6 +209,9 @@ body {
     width: 345px;
     height: 420px;
     background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .Img_width {
@@ -224,4 +227,5 @@ body {
     display: grid;
     grid-template-columns: 145px 145px;
     column-gap: 15px;
+    row-gap: 15px;
 }
