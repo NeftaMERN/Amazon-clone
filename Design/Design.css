@@ -203,15 +203,17 @@ body {
 
 .Card_container {
     padding-top: 300px;
+    display: flex;
+    align-items: center;
 }
 
 .Main_card {
     width: 345px;
-    height: 420px;
+    height: 430px;
     background-color: rgb(255, 255, 255);
     display: flex;
-    flex-direction: column;
     align-items: center;
+    flex-direction: column;
 }
 
 .Img_width {
