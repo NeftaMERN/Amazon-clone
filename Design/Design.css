@@ -118,9 +118,11 @@
 }
 
 .login_link {
-    width: 145px;
+    width: 135px;
     display: flex;
-    place-content: center;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
 }
 
 .login_Text {
@@ -133,10 +135,19 @@
     font-size: 15px;
 }
 
+.Sign_selection {
+    border: none;
+    background-color: transparent;
+    color: white;
+    outline: none;
+}
+
 .Order_link {
     width: 78px;
     display: flex;
-    place-content: center;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
 }
 
 .buy_icon  {
