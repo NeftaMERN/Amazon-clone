@@ -1,0 +1,229 @@
+
+/* .All_container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+} */
+
+        /* First Nav Bar All Container */
+
+.Main_nav {
+    width: 100%;
+    height: 60px;
+    background-color: #131921;
+    display: flex;
+    align-items: center;
+    padding: 0px 20px 0px 10px;
+}
+
+.logo_resize {
+    width: 110px;
+    height: 35px;
+}
+
+.logo_container {
+    width: 120px;
+}
+
+.Delivery {
+    width: 95px;
+    display: flex;
+    align-items: center;
+}
+
+.dropdown_main {
+    outline: none;
+    width: 50px;
+    height: 38px;
+    border: none;
+    margin-left: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    background-color: rgb(216, 216, 216);
+    color: gray;
+    border-top-left-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
+
+.search_class {
+    width: 860px;
+    height: 38px;
+    outline: none;
+    border: none;
+    padding-left: 10px;
+}
+
+.link_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.main_link {
+    text-decoration: none;
+    color: white;
+}
+
+.btn_go {
+    width: 40px;
+    height: 38px;
+    background-color: rgb(245, 213, 84);
+    border: none;
+    margin-left: -20px;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+
+.search_icon {
+    width: 20px;
+    height: 20px;
+}
+
+.input_container {
+    width: 1100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.country_flag {
+    width: 20px;
+}
+
+.country_dropdown {
+    border: none;
+    background-color: transparent;
+    color: white;
+    outline: none;
+    font-size: 14px;
+}
+
+.country_container {
+    /* width: 60px; */
+    background-color: white;
+}
+
+.location_icon {
+    width: 25px;
+    height: 25px;
+    filter: brightness(0) saturate(100%) invert(100%) sepia(0%) saturate(7475%) hue-rotate(358deg) brightness(105%) contrast(107%);
+}
+
+.horizontal_line {
+    transform: rotate(90deg);
+    width: 20px;
+    border: 1px solid white;
+}
+
+.login_link {
+    width: 145px;
+    display: flex;
+    place-content: center;
+}
+
+.login_Text {
+    font-size: 12px;
+    display: flex;
+    place-content: center;
+}
+
+.login_span {
+    font-size: 15px;
+}
+
+.Order_link {
+    width: 78px;
+    display: flex;
+    place-content: center;
+}
+
+.buy_icon  {
+    width: 45px;
+    height: 45px;
+    filter: brightness(0) saturate(100%) invert(100%) sepia(0%) saturate(7475%) hue-rotate(358deg) brightness(105%) contrast(107%);
+}
+
+.shoping_container {
+    width: 85px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+        /* Second Nav Bar Container */
+
+.Second_nav_bar {
+    width: 100%;
+    height: 40px;
+    background-color: #232f3e;
+    display: flex;
+    align-items: center;
+    padding: 0px 20px 0px 20px;
+    gap: 25px;
+}
+
+.menu {
+    width: 25px;
+    filter: brightness(0) saturate(100%) invert(100%) sepia(0%) saturate(7475%) hue-rotate(358deg) brightness(105%) contrast(107%);
+}
+
+.Second_nav_Text  {
+    font-size: 18px;
+}
+
+.Deliverd_text {
+    font-size: 13px;
+}
+
+.Delivery_span {
+    font-size: 15px;
+}
+
+/* 
+
+
+
+*/
+
+
+.Main_container {
+    background-image: url('https://m.media-amazon.com/images/I/61A-FJoXloL._SX3000_.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 90vh;
+}
+
+.Card_container {
+    padding-top: 300px;
+    display: flex;
+    align-items: center;
+}
+
+.Main_card {
+    width: 345px;
+    height: 430px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.Img_width {
+    width: 145px;
+    height: 115px;
+}
+
+.card_title {
+    font-size: 13px;
+}
+
+.Card_img {
+    display: grid;
+    grid-template-columns: 145px 145px;
+    column-gap: 15px;
+    row-gap: 15px;
+}
