@@ -209,6 +209,15 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
+    flex-direction: column;
+}
+
+.All_card_container {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 50px;
 }
 
 .Card_container {
@@ -246,4 +255,36 @@
     grid-template-columns: 145px 145px;
     column-gap: 15px;
     row-gap: 15px;
+}
+
+/* 
+
+
+*/
+
+.horizontal_Nav {
+    width: 100%;
+    height: 38vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Main_movies_nav {
+    width: 98%;
+    height: 35vh;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.Main_Movies {
+    width: 300px;
+}
+
+.Main_Movies_Image {
+    display: flex;
+    align-items: center;
+    overflow-x: auto;
 }
