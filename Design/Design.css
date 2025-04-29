@@ -235,6 +235,12 @@
     font-size: 13px;
 }
 
+.card_links {
+    text-decoration: none;
+    color: #131921;
+    font-size: 12px;
+}
+
 .Card_img {
     display: grid;
     grid-template-columns: 145px 145px;
