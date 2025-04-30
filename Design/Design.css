@@ -330,4 +330,12 @@
     color: #fff;
     background: rgb(67, 67, 116);
     border: none;
+    cursor: pointer;
+    font-size: 16px;
+    transition: 0.3s ease;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.main-button button:hover {
+    background: rgb(89, 89, 153);
 }
