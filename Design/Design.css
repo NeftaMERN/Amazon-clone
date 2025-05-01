@@ -323,7 +323,7 @@ body {
 
 .Main_footer {
     width: 100%;
-    height: 60vh;
+    height: 55vh;
     background-color: #232F3E;
 }
 
@@ -353,4 +353,68 @@ body {
     display: flex;
     justify-content: center;
     gap: 100px;
+}
+
+/* 
+
+
+
+*/
+
+.foorter_logo {
+    width: 80px;
+}
+
+.dropdown_footer_icon {
+    width: 15px;
+    height: 15px;
+    filter: brightness(0) saturate(100%) invert(100%) sepia(0%) saturate(7475%) hue-rotate(358deg) brightness(105%) contrast(107%);
+}
+
+.dropdown_footer_border {
+    border: 0.2px solid rgb(210, 210, 210);
+    border-radius: 4px;
+    width: 120px;
+    height: 40px;
+}
+
+.dropdown_footer_border_Dollar {
+    border: 0.2px solid rgb(210, 210, 210);
+    border-radius: 4px;
+    width: 150px;
+    height: 40px;
+}
+
+.dropdown_footer_Flag {
+    width: 15px;
+    height: 15px;
+}
+
+.dropdown_footer_Flag_container {
+    border: 0.2px solid rgb(210, 210, 210);
+    border-radius: 4px;
+    width: 160px;
+    height: 40px;
+}
+
+.Footer_Dropdown_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.Footer_Main_dropdown_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+    padding-top: 20px;
+}
+
+.footer_logo_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 8px;
 }
