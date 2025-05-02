@@ -445,3 +445,13 @@
     align-items: center;
     flex-direction: column;
 }
+
+.last_footer_p_container {
+    width: 90px;
+}
+
+.last_footer_p {
+    font-size: 13px;
+    color: rgb(199, 199, 199);
+    font-weight: 200px;
+}
