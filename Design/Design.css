@@ -432,14 +432,10 @@
 
 */
 
-.second_footer_container {
+.Footer_container {
     background-color: #131A22;
     width: 100%;
     height: 60vh;
-}
-
-.Footer_container {
-    width: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
