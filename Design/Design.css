@@ -163,6 +163,18 @@
     align-items: center;
 }
 
+.buy_icon_main_container {
+    position: relative;
+    overflow: hidden;
+}
+
+.inner_counter {
+    color: orangered;
+    position: absolute;
+    margin-top: -37px;
+    padding-left: 17px;
+}
+
         /* Second Nav Bar Container */
 
 .Second_nav_bar {
