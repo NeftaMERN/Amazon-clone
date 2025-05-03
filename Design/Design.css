@@ -430,6 +430,7 @@
 /* 
 
 
+
 */
 
 .Footer_container {
@@ -472,17 +473,23 @@
 */
 
 .last_text_link_container {
-
+    width: 100%;
 }
 
 .last_text_link_main_container ul {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
     align-items: center;
     list-style-type: none;
     text-decoration: none;
+    gap: 20px;
 }
 
 .last_text_link_main_container ul li a {
     text-decoration: none;
+}
+
+.org_link {
+    font-size: 12px;
+    color: white;
 }
