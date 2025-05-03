@@ -538,6 +538,14 @@
     position: fixed;
 }
 
-.popular_shoping_main_container ul {
+.popular_shoping_main_container a {
     list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 12px;
+}
+
+.popular_shoping {
+    padding: 25px 15px 0px 15px;
 }
