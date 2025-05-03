@@ -544,6 +544,8 @@
     flex-direction: column;
     justify-content: center;
     font-size: 12px;
+    text-decoration: none;
+    color: black;
 }
 
 .popular_shoping {
