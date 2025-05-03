@@ -566,6 +566,7 @@
     -webkit-appearance: none;
     background: #376e6f;
     height: 4px;
+    width: 95%;
     border: 10px;
     outline: none;
 }
@@ -583,6 +584,15 @@
     border: 1px solid gray;
     background-color: white;
     border-radius: 15px;
-    width: 40px;
-    height: 20px;
+    width: 45px;
+    height: 30px;
+}
+
+.input_Btn {
+    height: 50px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 45px;
+    justify-content: space-between;
+    align-items: center;
 }
