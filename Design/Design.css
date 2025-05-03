@@ -567,7 +567,9 @@
 
 .Slider::-webkit-slider-thumb{
     -webkit-appearance: none;
-    width: 15px;
-    height: 15px;
-    background: #376e6f;
+    width: 25px;
+    height: 25px;
+    background: #ffffff;
+    border-radius: 50%;
+    border: 7px solid #376e6f;
 }
