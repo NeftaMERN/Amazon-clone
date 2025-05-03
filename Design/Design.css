@@ -537,3 +537,7 @@
     height: 100vh;
     position: fixed;
 }
+
+.popular_shoping_main_container ul {
+    list-style-type: none;
+}
