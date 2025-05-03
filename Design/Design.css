@@ -558,5 +558,16 @@
 }
 
 .Slider {
-    
+    -webkit-appearance: none;
+    background: #376e6f;
+    height: 4px;
+    border: 10px;
+    outline: none;
+}
+
+.Slider::-webkit-slider-thumb{
+    -webkit-appearance: none;
+    width: 15px;
+    height: 15px;
+    background: #376e6f;
 }
