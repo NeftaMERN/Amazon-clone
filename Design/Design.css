@@ -531,3 +531,10 @@
     height: 30px;
     border-radius: 30px;
 }
+
+.side_bar_container {
+    width: 270px;
+    height: 100vh;
+    background-color: black;
+    position: fixed;
+}
