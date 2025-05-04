@@ -535,7 +535,6 @@
 .side_bar_container {
     width: 270px;
     height: 100vh;
-    position: fixed;
 }
 
 .popular_shoping_main_container a {
@@ -546,10 +545,6 @@
     font-size: 12px;
     text-decoration: none;
     color: black;
-}
-
-.popular_shoping {
-    padding: 25px 15px 0px 15px;
 }
 
 .Price_container {
@@ -607,4 +602,14 @@
     font-size: 12px;
     text-decoration: none;
     color: black;
+}
+
+.All_body_container {
+    display: grid;
+    grid-template-columns: 270px 1fr;
+    padding: 25px 15px 0px 15px;
+}
+
+.Main_body {
+    
 }
