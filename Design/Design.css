@@ -619,3 +619,21 @@
     justify-content: center;
     align-items: center;
 }
+
+.color_Selection {
+    background-color: #131921;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+}
+
+.color_container {
+    border: 2px solid #131921;
+    width: 25px;
+    height: 25px;
+    color: #131921;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+}
