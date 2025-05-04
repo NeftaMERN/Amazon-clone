@@ -613,3 +613,9 @@
 .Main_body {
     padding: 0px 0px 0px 20px;
 }
+
+.Rate_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
