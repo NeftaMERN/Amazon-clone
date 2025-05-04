@@ -614,6 +614,24 @@
     padding: 0px 0px 0px 20px;
 }
 
+.Object_IMAG_contaienr {
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.All_object_container {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    border: 1px solid rgb(231, 231, 231);
+    gap: 20px;
+    border-radius: 5px;
+}
+
 .Rate_container {
     display: flex;
     align-items: center;
