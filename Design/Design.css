@@ -719,9 +719,8 @@
     border-radius: 5px;
 }
 
-.second_img_continer {
-    width: 200px;
-    height: 200px;
+.thrid_img_continer {
+    width: 250px;
     background-color: white;
     display: flex;
     justify-content: center;
