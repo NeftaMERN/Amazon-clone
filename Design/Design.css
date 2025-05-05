@@ -674,3 +674,21 @@
 .Main_title_container {
     width: 900px;
 }
+
+.second_all_object_continer {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    border: 1px solid rgb(231, 231, 231);
+    gap: 20px;
+    border-radius: 5px;
+}
+
+.second_img_continer {
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
