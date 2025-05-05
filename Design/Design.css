@@ -692,3 +692,12 @@
     justify-content: center;
     align-items: center;
 }
+
+.second_rate_continer {
+    display: flex;
+    text-align: center;
+}
+
+.second_rate {
+    padding-left: 20px;
+}
