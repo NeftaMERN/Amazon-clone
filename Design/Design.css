@@ -736,3 +736,11 @@
 .thrid_rate {
     padding-left: 20px;
 }
+
+.third_btn {
+    border: 1px solid gray;
+    background-color: white;
+    padding: 4px 8px 4px 8px;
+    border-radius: 30px;
+    margin: 0;
+}
