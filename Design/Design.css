@@ -710,10 +710,10 @@
     margin: 0;
 }
 
-.thrid_object_continer {
+.thrid_all_object_continer {
     display: flex;
     justify-content: start;
-    align-items: center;
+    
     border: 1px solid rgb(231, 231, 231);
     gap: 20px;
     border-radius: 5px;
@@ -721,6 +721,7 @@
 
 .thrid_img_continer {
     width: 250px;
+    height: 250px;
     background-color: white;
     display: flex;
     justify-content: center;
