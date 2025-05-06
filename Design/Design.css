@@ -727,3 +727,12 @@
     justify-content: center;
     align-items: center;
 }
+
+.thrid_rate_container {
+    display: flex;
+    text-align: center;
+}
+
+.thrid_rate {
+    padding-left: 20px;
+}
