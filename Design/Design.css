@@ -534,7 +534,7 @@
 
 .side_bar_container {
     width: 270px;
-    height: 100vh;
+    height: 300vh;
 }
 
 .popular_shoping_main_container a {
@@ -673,4 +673,74 @@
 
 .Main_title_container {
     width: 900px;
+}
+
+.second_all_object_continer {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    border: 1px solid rgb(231, 231, 231);
+    gap: 20px;
+    border-radius: 5px;
+}
+
+.second_img_continer {
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.second_rate_continer {
+    display: flex;
+    text-align: center;
+}
+
+.second_rate {
+    padding-left: 20px;
+}
+
+.second_btn {
+    border: 1px solid gray;
+    background-color: white;
+    padding: 4px 8px 4px 8px;
+    border-radius: 30px;
+    margin: 0;
+}
+
+.thrid_all_object_continer {
+    display: flex;
+    justify-content: start;
+    
+    border: 1px solid rgb(231, 231, 231);
+    gap: 20px;
+    border-radius: 5px;
+}
+
+.thrid_img_continer {
+    width: 250px;
+    height: 300px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.thrid_rate_container {
+    display: flex;
+    text-align: center;
+}
+
+.thrid_rate {
+    padding-left: 20px;
+}
+
+.third_btn {
+    border: 1px solid gray;
+    background-color: white;
+    padding: 4px 8px 4px 8px;
+    border-radius: 30px;
+    margin: 0;
 }
