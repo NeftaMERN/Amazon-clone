@@ -59,3 +59,13 @@
   }
   
 }
+
+@media (max-width : 1370px) {
+  
+  .Main_nav {
+
+    width: 90%;
+
+  }
+
+}
