@@ -526,6 +526,10 @@
     padding: 0px 15px 0px 15px;
 }
 
+.Gaming_container {
+    width: 310px;
+}
+
 .Gaming_dropdown {
     width: 250px;
     height: 30px;

@@ -1,1 +1,61 @@
 
+@media (max-width : 1620px) {
+
+  .search_class {
+
+    width: 700px;
+
+  }
+
+}
+
+@media (max-width : 1490px) {
+
+  .All_card_container & .Horizontal_nav {
+
+    width: 95%;
+
+  }
+  
+}
+
+@media (max-width : 1450px) {
+
+  .All_card_container {
+
+    width: 95%;
+
+  }
+
+  .Main_card {
+
+    width: 300px;
+
+  }
+
+  .Img_width {
+
+    width: 120px;
+    height: auto;
+
+  }
+
+  .Card_img {
+
+    grid-template-columns: 120px 120px;
+
+  }
+
+  .Gaming_container {
+
+    width: 250px;
+
+  }
+
+  .horizontal_nav {
+
+    width: 93%;
+
+  }
+  
+}
